@@ -4,5 +4,5 @@
   <img src="Pics/main_view.png">
 </p>
 
-It's a modern mix of Legacy/Trident and Stealth Burner.
+It's a modern mix of Legacy/Trident with Stealth Burner.
 
