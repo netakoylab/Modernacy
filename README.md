@@ -1,7 +1,8 @@
-# VORON Legacy
+# VORON Modernacy
 
-![Image of Voron Legacy](https://vorondesign.com/images/voron_legacy_bg.jpg)
+<p align="center">
+  <img src="Pics/main-view.jpg">
+</p>
 
-The official release of the Voron Legacy 3d printer. You can find the BOM and any other relevant information at the [Voron Design]( http://vorondesign.com/voron_legacy) website.
+It's a modern mix of Legacy/Trident and Stealth Burner.
 
-![Voron Logo](https://vorondesign.com/images/voron_design_logo.png)
