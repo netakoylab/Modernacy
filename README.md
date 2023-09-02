@@ -1,4 +1,4 @@
-# VORON Modernacy
+# VORON Modernacy v0.75
 
 <p align="center">
   <img src="Pics/main_view.jpg">
