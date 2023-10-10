@@ -1,0 +1,62 @@
+Category,Component,Qty,Notes
+Filament,Primary color,2,kg
+Filament,Alternative color,2,kg
+Printed Parts,Full set,1,
+Frame,Corner Cube Frame Connector,8,
+,2020 T-Slot Extusion - 370mm,12,
+,2020 T-Slot Extrusion - 130mm,2,
+Motion,TR8x8 Leadscrew Nut,2,
+,Linear Shaft 8x320mm Shaft,10,
+,LM8LUU Linear Bearing,10,
+,GT2 Open Belt LL-2GT-6 (6mm wide) ,5,meters
+,GT2 20T Pulley (5mm bore),2,
+,F695 Bearing,24,
+Vibration mangment,Rubber Foot,4,
+Printhead,Stealthburner Kit,1,
+Printhead,EBB SB2209 CAN + U2C Kit,1,
+Electronics,Omron Mouse Button - Micro Switch,2,
+Electronics,Nema 17 Motor 42mm,2,
+,NEMA17 TR8x8 300mm Linear Stepper,2,
+Electronics,PL-08N Inductive Probe,1,
+Electronics,Omron G3A-210B-DC5 SSR,1,
+Electronics,SSR DIN Mount,1,
+Electronics,Mean Well LRS-200-24 PSU,1,
+Electronics,Meanwell RS-25-5 PSU,1,
+Electronics,Power Inlet with Switch,1,
+Electronics,Power Cord,1,
+Electronics,60x60x20 Axial Fan (24V),2,or 4
+Electronics,Thermal Fuse,1,
+Controller,Orange Pi 3 LTS,1,
+Controller,Micro SD Card 32Gb,1,
+Controller,SKR 1.4,1,or newer
+Controller,TMC 2209 Drivers,4,
+Controller,Mini 12864 Display,1,
+Controller,Display Cables,2,
+Misc,DIN Rail Steel,2,369 mm long - 35 mm wide - 7.5 mm tall
+Misc,PTFE Tube,2,meters
+Panels,Skirt DECK panel,1,3 mm
+Panels,Skirt BOT panel 3mm,1,3 mm
+Buildplate,"PEI kit 0.04"" Sheet - 9""x9""",1,230x230 mm
+Buildplate,"MIC6 1/4"" Plate - 9""x9""",1,
+Buildplate,Keenovo Silicone AC Heater w/ thermistor,1,200x200 mm (250W)
+Cables,18AWG PTFE wire,5,"meters, 2-3 color"
+,20AWG PTFE wire ,5,"meters, 2 color"
+,22AWG PTFE wire,5,"meters, 2 color"
+Fasteners,,,"Listed quantities are minimum, buy extra!"
+,"Bed Spring 1"" L 0.408"" OD",4,
+,M2x10 Self-Tapping Screw,20,
+,M3 Heat Set Inserts (M3x5x4),50,
+,M3 Roll-in T-Nut,50,
+,M3 Hammerhad T-Nut,10,
+,M3x8 SHCS,30,
+,M3x12 SHCS,30,
+,M3x16 SHCS,30,
+,M3x20 SHCS,20,
+,M3x30 SHCS,30,
+,M3x40 SHCS,10,
+,M5 Hexnut,15,
+,M5 Roll-in T-Nut,60,
+,M5 Washer,24,
+,M5x10 BHCS,26,
+,M5x16 BHCS,49,
+,M5x40 SHCS,6,
